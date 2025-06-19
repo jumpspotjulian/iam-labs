@@ -1,0 +1,12 @@
+{
+  "name": "VM Reader Lite",
+  "isCustom": true,
+  "description": "Can view virtual machines only",
+  "actions": [
+    "Microsoft.Compute/virtualMachines/read"
+  ],
+  "notActions": [],
+  "assignableScopes": [
+    "/subscriptions/bf651a55-41db-4f48-b8ba-debe8e99222b"
+  ]
+}
